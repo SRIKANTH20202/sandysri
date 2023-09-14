@@ -1,0 +1,87 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+
+header {
+    background-color:rgba(43, 146, 194, 0.5);
+    color: #0a0a0a;
+    padding: 10px 2px;
+     display:flex ;
+     justify-content: space-between;
+     font-size: 22px;
+     
+     
+}
+.sen{
+    text-align: center;
+    
+    
+}
+.sun{
+    margin-top: 42px;
+}
+
+a{
+    text-decoration: none;
+    font-size:23px;   
+    padding: 10px;
+    text-align-last: left;
+}
+
+
+.room {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: px 0;
+    background-color: #f9f9f9;
+}
+.room-info {
+    flex: 1;
+       
+}
+.room-name {
+    font-weight: bold;
+}
+.room-description {
+    font-style: italic;
+    
+}
+.room-price {
+    font-weight: bold;
+    color: #007bff;
+}
+.book-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+}
+.book-button:hover {
+    background-color: #0056b3;
+}
+.fun{
+padding: 0%;
+}
+a.sree
+{
+    align-content: end;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color:rgba(43, 146, 194, 0.5);
+    color: #0f0d0d;
+    margin-bottom: 25px;
+}
+.hen{
+    color: black;
+}
